@@ -10,3 +10,6 @@ Reinforcement Learning with Human Feedback (RLHF) is implemented by Proximal Pol
 
 ## Project Scripts
 [todo]
+
+## Literature Review
+[Prior art search on fine tuning LM with RLHF and PPO](prior_art_research.md)
