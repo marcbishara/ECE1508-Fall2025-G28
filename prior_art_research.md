@@ -17,8 +17,8 @@ This document will contain notes on existing research in the field with a brief 
 | REINFORCE++: An Efficient RLHF Algorithm with Robustnessto Both Prompt and Reward Models | [download page of paper](https://www.researchgate.net/publication/387487679_REINFORCE_An_Efficient_RLHF_Algorithm_with_Robustnessto_Both_Prompt_and_Reward_Models) | This paper introduced a "global advantage normalization" step to optimize the performance of PPO in a few senarios. (This might not be that helpful to our project). |
 | Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback | [Paper](https://arxiv.org/abs/2307.15217) | Outlines various challenges with different aspects of RLHF, catgorized as "fundamental" or "tractable" (Casper et al). |
 | Delve into PPO: Implementation Matters for Stable RLHF | [Paper](https://openreview.net/pdf?id=rxEmiOEIFL) | Some modifications to PPO (ByteDance). |
-|                |                |                  |
-|                |                |                  |
+| Supervised Fine-Tuning |[Hugging Face Docs](https://huggingface.co/learn/llm-course/chapter11/3) | Shows how to use TRL’s SFTTrainer, with steps for data, config, and training code. |
+| TRL Example Overview (PPO & SFT) | [Hugging Face Docs](https://huggingface.co/docs/trl/en/example_overview) | Official Hugging Face TRL examples for Supervised Fine-Tuning (SFT) and Proximal Policy Optimization (PPO).|
 |                |                |                  |
 
 ### Other
