@@ -7,7 +7,16 @@ pip install torch
 pip install transformers
 
 ## Data Sources
-[todo]
+Sarcasm datasets:
+
+Sarcasm_Headlines_Dataset.json
+Sarcasm_Headlines_Dataset_v2.json
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+test-balanced.csv
+test-unbalanced.csv
+train-balanced-sarasm.csv
+https://www.kaggle.com/datasets/danofer/sarcasm
 
 ## Reward Model
 [todo]
