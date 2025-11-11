@@ -2,8 +2,21 @@
 
 Reinforcement Learning with Human Feedback (RLHF) is implemented by Proximal Policy Optimization (PPO) to improve language model outputs according to a reward model.
 
+## Setup
+pip install torch
+pip install transformers
+
 ## Data Sources
-[todo]
+Sarcasm datasets:
+
+Sarcasm_Headlines_Dataset.json
+Sarcasm_Headlines_Dataset_v2.json
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
+
+test-balanced.csv
+test-unbalanced.csv
+train-balanced-sarasm.csv
+https://www.kaggle.com/datasets/danofer/sarcasm
 
 ## Reward Model
 [todo]
@@ -19,7 +32,7 @@ Reinforcement Learning with Human Feedback (RLHF) is implemented by Proximal Pol
 
 ### Reward model
 
-#### Sarcasm model
+#### Sarcasm model [Tamara]
 - identify/try different datasets
 - any necessary data cleaning/engineering
 - train/fine-tune classifier for detecting sarcasm
