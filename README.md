@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/danofer/sarcasm
 - any necessary data cleaning/engineering
 - train/fine-tune classifier for detecting sarcasm
 
-#### Subjective/objective model
+#### Subjective/objective model [Charles]
 - identify/try different datasets
 - any necessary data cleaning/engineering
 - train/fine-tune classifier for detecting objective/subjective
