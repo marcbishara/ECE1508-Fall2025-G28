@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/danofer/sarcasm
 - any necessary data cleaning/engineering
 - train/fine-tune classifier for detecting objective/subjective
 
-#### Other reward signals
+#### Other reward signals [Yuchen]
 - repeating words penalty
 - length of sentence penalty
 
@@ -54,7 +54,7 @@ https://www.kaggle.com/datasets/danofer/sarcasm
   - value model
   - GAE
  
-### Baseline SFT
+### Baseline SFT [Yuchen]
 - model for supervised finetuning to use as baseline
 
 ### Quantitative comparison of RL and SFT
