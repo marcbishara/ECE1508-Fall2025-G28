@@ -46,13 +46,13 @@ https://www.kaggle.com/datasets/danofer/sarcasm
 - repeating words penalty
 - length of sentence penalty
 
-### PPO
+### PPO [Marc]
 - overall architecture:
   - policy model
   - reference model
   - reward model (from above)
   - value model
-  - GAE
+  - GAE / PPO loss calculation
  
 ### Baseline SFT [Yuchen]
 - model for supervised finetuning to use as baseline
