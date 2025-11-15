@@ -3,4 +3,6 @@ files/Sarcasm_Headlines_Dataset.json
 files/Sarcasm_Headlines_Dataset_v2.json
 files/test-balanced.csv 
 files/test-unbalanced.csv 
-files/train-balanced-sarcasm.csv 
+files/train-balanced-sarcasm.csv
+objectivity_signal/glove.6B.100d.txt
+objectivity_signal/model_CNN_objectivity_classifier.pt
