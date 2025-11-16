@@ -6,3 +6,4 @@ files/test-unbalanced.csv
 files/train-balanced-sarcasm.csv
 objectivity_signal/glove.6B.100d.txt
 objectivity_signal/model_CNN_objectivity_classifier.pt
+SarcasmClassifierModel/
