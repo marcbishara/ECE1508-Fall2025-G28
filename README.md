@@ -101,6 +101,10 @@ The data was prepared using `Dataset_prep_script.ipynb`
 - Split for PPO training: `ppo_train`
 - Other splits are used to train the Sarcasm Classifier, fine-tune GPT-2, and as a holdout dataset for evaluation
 
+
+Sarcasm Classifier training used ["Sarcasm on Reddit"](https://www.kaggle.com/datasets/danofer/sarcasm) dataset.  
+Subjectivity Classifier training used ["subjectivity dataset v1.0"](https://www.cs.cornell.edu/people/pabo/movie-review-data/) dataset from Pang, B., & Lee, L. (2004).
+
 ## References
 
 - Literature review: [Prior art search on fine tuning LM with RLHF and PPO](prior_art_research.md)
