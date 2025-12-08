@@ -21,6 +21,7 @@ This project uses the PPO algorithm provided by the `trl` library. The training 
   - Training code: Located in the [`sarcasm_classifier/`](./sarcasm_classifier) directory
   - Model weights: Hosted on Hugging Face at [`tmrcnl/SarcasmRewardModel`](https://huggingface.co/tmrcnl/SarcasmRewardModel)
 - Subjectivity Classifier: A custom CNN classifier using GloVe embeddings to detect subjective/objective language
+  - Training code: Located in the [`subjectivity_classifier/`](./subjectivity_classifier) directory
   - Model weights: Hosted on Hugging Face at [`qasxxsaq/objectivity_signal`](https://huggingface.co/qasxxsaq/objectivity_signal/tree/main)
 
 ### The Reward Model
